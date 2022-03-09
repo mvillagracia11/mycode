@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
+
 # https://github.com/csfeeser/Python/blob/master/challenges/Busted%20Code%20Morning%20Review.md
-
-#!/usr/bin/env python3  # missing /bin
-
+# this shebang before has missing /bi
 
 def main():
 
